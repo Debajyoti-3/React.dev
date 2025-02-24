@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div>
-      <h1 className= ' text-black p-10 rounded-2xl bg-amber-500 font-bold font-serif mb-4'>Tailwind CSS</h1>
+      <h1 className= ' text-black p-10 rounded-2xl bg-cyan-500 font-bold font-serif mb-4'>Tailwind CSS</h1>
 
     // Card component using dev.UI library
     <Card username='Rick' />
