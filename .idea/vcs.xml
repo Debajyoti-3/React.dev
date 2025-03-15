@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/05passwordGenerator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/07reactRouter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bgChanger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/currency" vcs="Git" />
   </component>
 </project>
